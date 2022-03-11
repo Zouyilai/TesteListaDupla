@@ -12,7 +12,7 @@ public class Teste {
 		lista.inserir("selmini", 178067);
 		
 		lista.imprimir();
-		
+		//menssagem
 	}
 
 }
